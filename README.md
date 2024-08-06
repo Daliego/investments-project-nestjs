@@ -60,9 +60,13 @@ $ yarn run test:cov
 
 ## To use the App
 
-# Generate the docker 
-$ yarn run test:cov
+```bash
+# Generate the docker container
+$ docker-compose up
 
+# Prisma start up
+$ yarn prisma migrate dev 
+```
 
 ## Test
 
