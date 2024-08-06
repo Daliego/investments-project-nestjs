@@ -58,6 +58,12 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
+## To use the App
+
+# Generate the docker 
+$ yarn run test:cov
+
+
 ## Test
 
 ```bash
